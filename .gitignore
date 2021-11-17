@@ -1,0 +1,15 @@
+# internal directories
+capture-dir/*
+oui-lookup/*
+
+# database files
+*.db
+
+# any log files
+*.log
+
+# the temporary *-data files
+*-data
+
+# the python cache
+__pycache__/*
